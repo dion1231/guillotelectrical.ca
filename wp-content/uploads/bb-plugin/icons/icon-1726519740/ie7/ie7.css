@@ -1,0 +1,13 @@
+.guilliotelecticicon-icon-location {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '');
+}
+.guilliotelecticicon-icon-mail {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '');
+}
+.guilliotelecticicon-icon-phone {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '');
+}
+.guilliotelecticicon-icon-license {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '');
+}
+
